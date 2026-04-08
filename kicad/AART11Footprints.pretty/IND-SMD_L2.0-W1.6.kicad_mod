@@ -1,0 +1,145 @@
+(footprint "IND-SMD_L2.0-W1.6"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Inductor, Taiyo Yuden, MD series, Taiyo-Yuden_MD-2020, 2.0mmx2.0mm")
+	(tags "inductor taiyo-yuden md smd")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "44749b37-7ee6-4207-b6ac-8c0bb87205f5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "10uH"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "732f0e8a-f660-4f1c-94ff-d17aab7b7631")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1809231520_Sunltech-Tech-SLW201610P100MST_C207862.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee291f6c-1895-469b-aa8f-832c6db66b3c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Inductor with ferrite core, small symbol"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d89b0a8f-b0c6-43a2-b56d-5f6858cdfb32")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "JLCPCB Part #" "C207862"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "35fd687f-ba42-474b-a350-cbe174786e33")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Rating" "750mA - ±20%"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "df31a786-d886-4c43-9aab-4e7c6bbfb558")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.14 -1.02)
+		(end 1.14 -1.02)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "699972c0-e5f1-4db2-b9e9-fe759c536ed5")
+	)
+	(fp_line
+		(start 1.14 1.02)
+		(end -1.14 1.02)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dc76b8ea-7570-4a39-8da5-2c76ace47e08")
+	)
+	(fp_circle
+		(center 1 -0.8)
+		(end 1.03 -0.8)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "f40ec2f4-db94-427b-b66c-320c9461a403")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "fb17ff0d-ae94-49f1-8b3b-c9526e5e1488")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0.83 0)
+		(size 1 1.72)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6ef8099d-ac46-4bf5-8ff3-300d9063c7d2")
+	)
+	(pad "2" smd rect
+		(at -0.83 0)
+		(size 1 1.72)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "92a72984-0c85-4c90-b2ff-7dab37150a05")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/AART11FootprintModels/Inductor_SMD.3dshapes/IND-SMD_L2.0-W1.6-H1.1.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
+)
