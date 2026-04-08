@@ -498,7 +498,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "AART11.kicad_pro",
+    "filename": "AART_Remora_12.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -687,8 +687,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "AART11.kicad_sch",
-        "name": "AART11",
+        "filename": "AART_Remora_12.kicad_sch",
+        "name": "AART_Remora_12",
         "uuid": "4f304c91-8ecc-460d-913e-dab1ef2fd784"
       }
     ],
@@ -698,7 +698,7 @@
   "sheets": [
     [
       "4f304c91-8ecc-460d-913e-dab1ef2fd784",
-      "AART11"
+      "AART_Remora_12"
     ],
     [
       "4c332aaf-5896-47fb-9fc6-924e8351a343",

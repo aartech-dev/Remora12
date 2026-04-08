@@ -10,7 +10,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "5daf3800-a4a7-49d0-b9ce-0130ede2253d")
+		(uuid "d17aed3b-cbaf-43b4-9510-588a348fc854")
 		(effects
 			(font
 				(size 1 1)
@@ -22,7 +22,7 @@
 		(at 0 1.27 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "60b718da-4f02-40c7-b52c-ae31367e5905")
+		(uuid "5061bbbf-5f05-44d6-a259-5ee0fb633374")
 		(effects
 			(font
 				(size 1 1)
@@ -34,7 +34,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "83aceb9b-e856-462e-b230-f6ea81a87492")
+		(uuid "cb98c81f-202c-48cc-9787-677d1cc91a2b")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "caebf041-23d6-4933-974f-8d0ecf552c92")
+		(uuid "4fe0bf8a-9d80-4bc3-987d-c9be8f5513ac")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -56,7 +56,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "a101c1c8-ca2e-4e67-9e69-b94faccde0e8")
+		(uuid "79954163-3324-43f0-a49b-d1a0fb327b9d")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -75,7 +75,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "c4b0c707-5fcc-4b99-923e-1042075facb1")
+		(uuid "a6faa751-33bf-45a4-bd5e-71869dcae78d")
 	)
 	(fp_line
 		(start -1.4 0)
@@ -85,7 +85,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "bc1dc30f-d214-49ed-87d5-027f39efee8b")
+		(uuid "ccf01e71-517b-400e-a4ce-4a5f4ca48992")
 	)
 	(fp_line
 		(start -1.27 -2.032)
@@ -95,7 +95,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "92be70fa-0ffa-44b8-97f8-58d354ae6717")
+		(uuid "0c0b2115-fbf3-47bc-a8d5-1bfd26101e0c")
 	)
 	(fp_line
 		(start 2.032 -2.032)
@@ -105,7 +105,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "6f859508-bd43-4464-b7af-840a16666cf7")
+		(uuid "d1b88d29-d04e-4c9d-8fe1-a8179a5bd763")
 	)
 	(fp_line
 		(start 2.032 -1.016)
@@ -115,7 +115,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "c0ad0ecc-f97b-4cd9-8608-15ed75da0cad")
+		(uuid "9e88e872-1203-4e6e-b1d7-0a2dca858342")
 	)
 	(fp_rect
 		(start -2.286 -2.286)
@@ -126,13 +126,13 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "dcc9bb05-ff19-4052-a215-7d8c6ae862f0")
+		(uuid "c13023d5-6afe-4c41-941a-5797bccc7dfc")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 2.77 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "3f3e3016-12d1-42c7-85c2-2007a124e238")
+		(uuid "ab9bd66c-af3a-4713-aec4-9049d68d92bd")
 		(effects
 			(font
 				(size 1 1)
@@ -145,53 +145,53 @@
 		(size 1.05 0.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(thermal_bridge_angle 45)
-		(uuid "6e69c53b-8365-4151-a442-d4f21332f95a")
+		(uuid "4df3358e-e0e3-427b-9af6-ff5711125a3b")
 	)
 	(pad "" smd rect
 		(at 1.85 -0.375 90)
 		(size 1.05 0.7)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(thermal_bridge_angle 45)
-		(uuid "096d1ed0-e216-4604-8c77-589b4a89fd4c")
+		(uuid "62fa803e-6ab6-4526-a68f-f3ac5a5bd068")
 	)
 	(pad "1" smd rect
 		(at -0.9 -1.75 90)
 		(size 0.6 0.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(thermal_bridge_angle 45)
-		(uuid "83bdee2f-b79e-45f1-ad98-614b01a9e7af")
+		(uuid "b42665f9-90fe-4d47-b170-de8f36214eb9")
 	)
 	(pad "2" smd rect
 		(at -0.3 -1.75 90)
 		(size 0.6 0.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(thermal_bridge_angle 45)
-		(uuid "26736032-6036-47c2-8f17-76ac69b09a96")
+		(uuid "0c807bb4-f62d-4d27-8f65-63c9b7723fbe")
 	)
 	(pad "3" smd rect
 		(at 0.3 -1.75 90)
 		(size 0.6 0.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(thermal_bridge_angle 45)
-		(uuid "a2abf3f9-033d-4041-8b0a-0099276bdc0b")
+		(uuid "a8825b63-5474-48ce-bb77-55e4424fe8da")
 	)
 	(pad "4" smd rect
 		(at 0.9 -1.75 90)
 		(size 0.6 0.4)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(thermal_bridge_angle 45)
-		(uuid "d3a82c0d-bae1-4649-a77e-3f91fe148c9a")
+		(uuid "1d275f37-c0fc-44b0-95e2-7e24b66a19a5")
 	)
 	(embedded_fonts no)
-	(model "${USER_MODEL_DIR}/Connector_SMD.3dshapes/CONN-SMD_4P-P0.60_HDGC_HDGC0601WR-S-4P.wrl"
+	(model "${KIPRJMOD}/AART12FootprintModels/Connector_SMD.3dshapes/CONN-SMD_4P-P0.60_HDGC_HDGC0601WR-S-4P.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 1 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -0 -0 -0)
 		)
 	)
 )

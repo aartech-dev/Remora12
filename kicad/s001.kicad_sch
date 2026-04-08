@@ -4336,7 +4336,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:DFN-8_L3.2-W3.1-P0.65-LS3.4-BL"
+		(property "Footprint" "AART12Footprints:DFN-8_L3.2-W3.1-P0.65-LS3.4-BL"
 			(at 154.94 84.455 0)
 			(hide yes)
 			(show_name no)
@@ -4404,7 +4404,7 @@
 					(unit 1)
 				)
 			)
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "Q8")
 					(unit 1)
@@ -4457,7 +4457,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:C_0805_2012Metric_22µF"
+		(property "Footprint" "AART12Footprints:C_0805_2012Metric_22µF"
 			(at 76.2 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -4519,7 +4519,7 @@
 			(uuid "93b3b162-fe7f-4c11-a87e-3f20f6f579bb")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "C14")
 					(unit 1)
@@ -4597,7 +4597,7 @@
 			(uuid "a87493e9-7bff-44ea-811a-752fa1513be4")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "#PWR014")
 					(unit 1)
@@ -4639,7 +4639,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:DFN-8_L3.2-W3.1-P0.65-LS3.4-BL"
+		(property "Footprint" "AART12Footprints:DFN-8_L3.2-W3.1-P0.65-LS3.4-BL"
 			(at 167.64 97.155 0)
 			(hide yes)
 			(show_name no)
@@ -4707,7 +4707,7 @@
 					(unit 1)
 				)
 			)
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "Q9")
 					(unit 1)
@@ -4822,7 +4822,7 @@
 			(uuid "30301b4f-2ddc-420b-bed6-6f93e8ac4637")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "R10")
 					(unit 1)
@@ -4865,7 +4865,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:C_0805_2012Metric_22µF"
+		(property "Footprint" "AART12Footprints:C_0805_2012Metric_22µF"
 			(at 88.9 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -4927,7 +4927,7 @@
 			(uuid "b9895fee-5afb-476d-bb24-5eb9ade0f210")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "C15")
 					(unit 1)
@@ -5032,7 +5032,7 @@
 			(uuid "3bf472a6-f4bf-47b1-bf81-0caa30b59e95")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "C9")
 					(unit 1)
@@ -5137,7 +5137,7 @@
 			(uuid "ce42dd0e-f1ec-466a-9a7b-5f87cd453d6c")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "R9")
 					(unit 1)
@@ -5180,7 +5180,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:C_0805_2012Metric_22µF"
+		(property "Footprint" "AART12Footprints:C_0805_2012Metric_22µF"
 			(at 50.8 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -5242,7 +5242,7 @@
 			(uuid "7467dcd6-aa32-4835-8921-aaba65dff194")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "C12")
 					(unit 1)
@@ -5320,7 +5320,7 @@
 			(uuid "236ad966-dea9-47d1-b85c-f3bf35d962ef")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "#PWR016")
 					(unit 1)
@@ -5397,7 +5397,7 @@
 			(uuid "fac5a4a2-78b4-4974-8cd7-4c979c5f7a17")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "J10")
 					(unit 1)
@@ -5439,7 +5439,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:DFN-8_L3.2-W3.1-P0.65-LS3.4-BL"
+		(property "Footprint" "AART12Footprints:DFN-8_L3.2-W3.1-P0.65-LS3.4-BL"
 			(at 142.24 52.705 0)
 			(hide yes)
 			(show_name no)
@@ -5507,7 +5507,7 @@
 					(unit 1)
 				)
 			)
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "Q5")
 					(unit 1)
@@ -5595,7 +5595,7 @@
 			(uuid "12c7a65a-4ea9-4094-b073-2f66a8c629db")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "#PWR015")
 					(unit 1)
@@ -5672,7 +5672,7 @@
 			(uuid "998ab32d-b989-4582-a360-2b3845171976")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "J2")
 					(unit 1)
@@ -5749,7 +5749,7 @@
 			(uuid "7772851e-2cfc-46dd-8543-daa647f7a4ee")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "J11")
 					(unit 1)
@@ -5791,7 +5791,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:DFN-8_L3.2-W3.1-P0.65-LS3.4-BL"
+		(property "Footprint" "AART12Footprints:DFN-8_L3.2-W3.1-P0.65-LS3.4-BL"
 			(at 154.94 71.755 0)
 			(hide yes)
 			(show_name no)
@@ -5859,7 +5859,7 @@
 					(unit 1)
 				)
 			)
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "Q7")
 					(unit 1)
@@ -5974,7 +5974,7 @@
 			(uuid "e4f8d757-7424-46a3-b2b7-5abde192ddd3")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "R15")
 					(unit 1)
@@ -6079,7 +6079,7 @@
 			(uuid "362fd2e2-5db6-4386-84e5-544029fa1e23")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "R16")
 					(unit 1)
@@ -6184,7 +6184,7 @@
 			(uuid "6a6cb800-914e-4fbf-988c-bf677b89bf55")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "C7")
 					(unit 1)
@@ -6289,7 +6289,7 @@
 			(uuid "267ff375-995f-486c-845a-6310bb1e4d97")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "C8")
 					(unit 1)
@@ -6332,7 +6332,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:C_0805_2012Metric_22µF"
+		(property "Footprint" "AART12Footprints:C_0805_2012Metric_22µF"
 			(at 38.1 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -6394,7 +6394,7 @@
 			(uuid "28717e98-abc7-4736-bf42-ce4ff0566806")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "C11")
 					(unit 1)
@@ -6472,7 +6472,7 @@
 			(uuid "27895d73-8097-4fb0-94f4-84b81cdd7724")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "#PWR012")
 					(unit 1)
@@ -6576,7 +6576,7 @@
 			(uuid "7c59143c-ee36-4c38-9bb5-c932b648b526")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "R12")
 					(unit 1)
@@ -6681,7 +6681,7 @@
 			(uuid "c99fe5e6-ab4f-4a76-8ef1-bf8e092b51ca")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "C10")
 					(unit 1)
@@ -6758,7 +6758,7 @@
 			(uuid "504bd85e-7381-4398-8081-283427b0d8f9")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "J3")
 					(unit 1)
@@ -6851,7 +6851,7 @@
 			(uuid "e4790e37-f968-4b32-bb68-cabfd1cd4188")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "D7")
 					(unit 1)
@@ -7014,7 +7014,7 @@
 			(uuid "28aaa19d-df52-4d56-a404-5e70b6ea4d05")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "U3")
 					(unit 1)
@@ -7057,7 +7057,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:C_0805_2012Metric_22µF"
+		(property "Footprint" "AART12Footprints:C_0805_2012Metric_22µF"
 			(at 152.4 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -7119,7 +7119,7 @@
 			(uuid "3dd2568a-2a2c-47b4-90af-7d2ef9150d0a")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "C20")
 					(unit 1)
@@ -7162,7 +7162,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:C_0805_2012Metric_22µF"
+		(property "Footprint" "AART12Footprints:C_0805_2012Metric_22µF"
 			(at 63.5 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -7224,7 +7224,7 @@
 			(uuid "df9adb03-3ffb-4fb0-b41f-221354396217")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "C13")
 					(unit 1)
@@ -7329,7 +7329,7 @@
 			(uuid "62b744d7-ee6d-48a7-aecb-e0969f977a2c")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "R17")
 					(unit 1)
@@ -7407,7 +7407,7 @@
 			(uuid "f807b1b7-ff12-44f3-ac0f-c2edb55ddda7")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "#PWR013")
 					(unit 1)
@@ -7449,7 +7449,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:DFN-8_L3.2-W3.1-P0.65-LS3.4-BL"
+		(property "Footprint" "AART12Footprints:DFN-8_L3.2-W3.1-P0.65-LS3.4-BL"
 			(at 142.24 65.405 0)
 			(hide yes)
 			(show_name no)
@@ -7517,7 +7517,7 @@
 					(unit 1)
 				)
 			)
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "Q6")
 					(unit 1)
@@ -7570,7 +7570,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:C_0805_2012Metric_22µF"
+		(property "Footprint" "AART12Footprints:C_0805_2012Metric_22µF"
 			(at 101.6 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -7632,7 +7632,7 @@
 			(uuid "c422e357-ad50-4da9-b385-98cb1b966328")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "C16")
 					(unit 1)
@@ -7675,7 +7675,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:C_0805_2012Metric_22µF"
+		(property "Footprint" "AART12Footprints:C_0805_2012Metric_22µF"
 			(at 127 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -7737,7 +7737,7 @@
 			(uuid "7792d4df-99a2-43c3-938d-c2b078ce2c69")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "C18")
 					(unit 1)
@@ -7841,7 +7841,7 @@
 			(uuid "c2fb8f69-5661-4694-bfd8-572ead4412ec")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "R13")
 					(unit 1)
@@ -7918,7 +7918,7 @@
 			(uuid "8bcb064a-e60b-45af-a0b8-ce0e6234cdbd")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "J8")
 					(unit 1)
@@ -7961,7 +7961,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:C_0805_2012Metric_22µF"
+		(property "Footprint" "AART12Footprints:C_0805_2012Metric_22µF"
 			(at 114.3 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -8023,7 +8023,7 @@
 			(uuid "5dfef618-67b6-4d28-84df-17191039c774")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "C17")
 					(unit 1)
@@ -8127,7 +8127,7 @@
 			(uuid "a0acef35-d3fb-4c65-b99f-d1ac617c2166")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "R14")
 					(unit 1)
@@ -8170,7 +8170,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:C_0805_2012Metric_22µF"
+		(property "Footprint" "AART12Footprints:C_0805_2012Metric_22µF"
 			(at 139.7 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -8232,7 +8232,7 @@
 			(uuid "d84637b7-8fa5-414f-b8b5-cf21f9cc2588")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "C19")
 					(unit 1)
@@ -8325,7 +8325,7 @@
 			(uuid "9c4e7c81-db79-4156-a657-744522cf26b5")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "D5")
 					(unit 1)
@@ -8430,7 +8430,7 @@
 			(uuid "3bc3cf34-5aa9-4b89-9615-11aee645442b")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "R11")
 					(unit 1)
@@ -8472,7 +8472,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AART11footprints:DFN-8_L3.2-W3.1-P0.65-LS3.4-BL"
+		(property "Footprint" "AART12Footprints:DFN-8_L3.2-W3.1-P0.65-LS3.4-BL"
 			(at 167.64 109.855 0)
 			(hide yes)
 			(show_name no)
@@ -8540,7 +8540,7 @@
 					(unit 1)
 				)
 			)
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "Q10")
 					(unit 1)
@@ -8627,7 +8627,7 @@
 			(uuid "b7d81c58-3c7e-41fc-bf50-c35cd4a7772d")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "J9")
 					(unit 1)
@@ -8720,7 +8720,7 @@
 			(uuid "241745b2-5411-4cc7-97e7-2f3fa9f9bb3b")
 		)
 		(instances
-			(project "AART11"
+			(project "AART_Remora_12"
 				(path "/4f304c91-8ecc-460d-913e-dab1ef2fd784/4c332aaf-5896-47fb-9fc6-924e8351a343"
 					(reference "D6")
 					(unit 1)
